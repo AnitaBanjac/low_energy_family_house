@@ -1,0 +1,47 @@
+# =========================
+# Editable documentation
+# =========================
+
+docs_src/
+
+# Word temporary files
+~$*.docx
+
+# Optional: ignore all Word files
+# *.docx
+
+
+# =========================
+# MATLAB
+# =========================
+
+*.asv
+*.autosave
+slprj/
+*.mex*
+*.mexa64
+*.mexw64
+
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# IDE
+# =========================
+
+.vscode/
+.idea/
+
+
+# =========================
+# Python cache (if used later)
+# =========================
+
+__pycache__/
+*.pyc
